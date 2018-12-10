@@ -9,18 +9,18 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 1540868946202182}
+  m_RootGameObject: {fileID: 1267258309167224}
   m_IsPrefabAsset: 1
---- !u!1 &1540868946202182
+--- !u!1 &1267258309167224
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4828668722624162}
-  - component: {fileID: 212609075916211276}
-  - component: {fileID: 65087635549380594}
+  - component: {fileID: 4375972722988232}
+  - component: {fileID: 212419864708938404}
+  - component: {fileID: 65205142888826744}
   m_Layer: 0
   m_Name: rock brick 1
   m_TagString: Untagged
@@ -28,37 +28,37 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4828668722624162
+--- !u!4 &4375972722988232
 Transform:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1540868946202182}
+  m_GameObject: {fileID: 1267258309167224}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -13.283793, y: 0.75380635, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 5.84, y: 10.24, z: 0}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!65 &65087635549380594
+--- !u!65 &65205142888826744
 BoxCollider:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1540868946202182}
+  m_GameObject: {fileID: 1267258309167224}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 2.8181353, y: 0.5796194, z: 0.2}
   m_Center: {x: -0.13531065, y: -0.15222454, z: 0}
---- !u!212 &212609075916211276
+--- !u!212 &212419864708938404
 SpriteRenderer:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1540868946202182}
+  m_GameObject: {fileID: 1267258309167224}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
